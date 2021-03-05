@@ -1,10 +1,4 @@
-# Decorators
-
-
-
-
-
-
+#3# A_Decorators_Function ##
 
 def prefix_decorator(prefix):
     def decorator_function(original_function):
